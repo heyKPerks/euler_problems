@@ -10,4 +10,4 @@ for(var i = 0; i < 1000; i++) {
   }
 }
 
-console.log(sum); 
+console.log(sum); //expected result 233168
